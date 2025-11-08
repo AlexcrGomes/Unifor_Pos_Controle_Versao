@@ -97,3 +97,77 @@ No linha:1 caractere:1
     + FullyQualifiedErrorId : CommandNotFoundException
 
 ]633;D;1]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versão\x5cGit-workshopPS C:\Users\alex.gomes\Desktop\unifor controle de versão\Git-workshop> ]633;B
+PS>git commit -am "v2"
+
+]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versão\x5cGit-workshopPS C:\Users\alex.gomes\Desktop\unifor controle de versão\Git-workshop> ]633;B
+PS>git status
+
+]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versão\x5cGit-workshopPS C:\Users\alex.gomes\Desktop\unifor controle de versão\Git-workshop> ]633;B
+PS>git add .
+
+]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versão\x5cGit-workshopPS C:\Users\alex.gomes\Desktop\unifor controle de versão\Git-workshop> ]633;B
+PS>git status
+
+]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versão\x5cGit-workshopPS C:\Users\alex.gomes\Desktop\unifor controle de versão\Git-workshop> ]633;B
+PS>git brach prod
+
+]633;D;1]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versão\x5cGit-workshopPS C:\Users\alex.gomes\Desktop\unifor controle de versão\Git-workshop> ]633;B
+PS>git branch
+
+]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versão\x5cGit-workshopPS C:\Users\alex.gomes\Desktop\unifor controle de versão\Git-workshop> ]633;B
+PS>git checkout prod
+
+]633;D;1]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versão\x5cGit-workshopPS C:\Users\alex.gomes\Desktop\unifor controle de versão\Git-workshop> ]633;B
+PS>git branch
+
+]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versão\x5cGit-workshopPS C:\Users\alex.gomes\Desktop\unifor controle de versão\Git-workshop> ]633;B
+PS>checkout prod
+checkout : O termo 'checkout' não é reconhecido como nome de cmdlet, função, arquivo de script ou programa operável. 
+Verifique a grafia do nome ou, se um caminho tiver sido incluído, veja se o caminho está correto e tente novamente.
+No linha:1 caractere:1
++ checkout prod
++ ~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (checkout:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+checkout : O termo 'checkout' não é reconhecido como nome de cmdlet, função, arquivo de script ou programa operável. Verifique a grafia do nome ou, se um
+caminho tiver sido incluído, veja se o caminho está correto e tente novamente.
+No linha:1 caractere:1
++ checkout prod
++ ~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (checkout:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+]633;D;1]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versão\x5cGit-workshopPS C:\Users\alex.gomes\Desktop\unifor controle de versão\Git-workshop> ]633;B
+PS>git checkout prod
+
+]633;D;1]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versão\x5cGit-workshopPS C:\Users\alex.gomes\Desktop\unifor controle de versão\Git-workshop> ]633;B
+PS>git status
+
+]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versão\x5cGit-workshopPS C:\Users\alex.gomes\Desktop\unifor controle de versão\Git-workshop> ]633;B
+PS>git log
+
+]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versão\x5cGit-workshopPS C:\Users\alex.gomes\Desktop\unifor controle de versão\Git-workshop> ]633;B
+PS>git commit -m "add files"
+
+]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versão\x5cGit-workshopPS C:\Users\alex.gomes\Desktop\unifor controle de versão\Git-workshop> ]633;B
+PS>git status
+
+]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versão\x5cGit-workshopPS C:\Users\alex.gomes\Desktop\unifor controle de versão\Git-workshop> ]633;B
+PS>git log
+
+]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versão\x5cGit-workshopPS C:\Users\alex.gomes\Desktop\unifor controle de versão\Git-workshop> ]633;B
+PS>git checkout prod
+
+]633;D;1]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versão\x5cGit-workshopPS C:\Users\alex.gomes\Desktop\unifor controle de versão\Git-workshop> ]633;B
+PS>git push -u oringin main
+
+]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versão\x5cGit-workshopPS C:\Users\alex.gomes\Desktop\unifor controle de versão\Git-workshop> ]633;B
+PS>git branch
+
+]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versão\x5cGit-workshopPS C:\Users\alex.gomes\Desktop\unifor controle de versão\Git-workshop> ]633;B
+PS>git status
+
+]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versão\x5cGit-workshopPS C:\Users\alex.gomes\Desktop\unifor controle de versão\Git-workshop> ]633;B
+PS>git checkout prod
+
+]633;D;1]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versão\x5cGit-workshopPS C:\Users\alex.gomes\Desktop\unifor controle de versão\Git-workshop> ]633;B
