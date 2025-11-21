@@ -1,0 +1,4 @@
+Este arquivo esta apontando para produção
+não deve conter nas outras bases
+
+>>>> codigo apontando para base: Produção

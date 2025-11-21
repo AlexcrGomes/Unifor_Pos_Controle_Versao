@@ -1,12 +1,12 @@
 ﻿**********************
 Início da transcrição do Windows PowerShell
-Hora de início: 20251108090226
+Hora de início: 20251121000206
 Nome de Usuário: TEXTIL\alex.gomes
 Executar como Usuário: TEXTIL\alex.gomes
 Nome da Configuração: 
 Computador: ADM-TI-054 (Microsoft Windows NT 10.0.26100.0)
 Aplicativo Host: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -noexit -command try { . "c:\Users\alex.gomes\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\contrib\terminal\common\scripts\shellIntegration.ps1" } catch {}
-ID do Processo: 56520
+ID do Processo: 6116
 PSVersion: 5.1.26100.2161
 PSEdition: Desktop
 PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.26100.2161
@@ -16,5 +16,14 @@ WSManStackVersion: 3.0
 PSRemotingProtocolVersion: 2.3
 SerializationVersion: 1.1.0.1
 **********************
-Transcrição iniciada, o arquivo de saída é Comandos.txt
+Transcrição iniciada, o arquivo de saída é C:\Users\alex.gomes\Desktop\unifor controle de versão\comandos.txt
+]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versãoPS C:\Users\alex.gomes\Desktop\unifor controle de versão> ]633;B
+PS>git status
+        modified:   Comandos.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        comandos/
+
+no changes added to commit (use "git add" and/or "git commit -a")
 ]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versãoPS C:\Users\alex.gomes\Desktop\unifor controle de versão> ]633;B
