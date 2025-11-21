@@ -1,0 +1,6 @@
+Arquivo foi escrito pelo git bash.
+Este aquivo deve conter texto escrito direto pelo prompt de comando bash
+Usar o nano para editar arquivo texto
+ctrl + O para salvar
+Enter para confirmar
+ctrl + X para sair
