@@ -1,12 +1,12 @@
 ﻿**********************
 Início da transcrição do Windows PowerShell
-Hora de início: 20251121000206
+Hora de início: 20251108090226
 Nome de Usuário: TEXTIL\alex.gomes
 Executar como Usuário: TEXTIL\alex.gomes
 Nome da Configuração: 
 Computador: ADM-TI-054 (Microsoft Windows NT 10.0.26100.0)
 Aplicativo Host: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -noexit -command try { . "c:\Users\alex.gomes\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\contrib\terminal\common\scripts\shellIntegration.ps1" } catch {}
-ID do Processo: 6116
+ID do Processo: 56520
 PSVersion: 5.1.26100.2161
 PSEdition: Desktop
 PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.26100.2161
@@ -16,14 +16,181 @@ WSManStackVersion: 3.0
 PSRemotingProtocolVersion: 2.3
 SerializationVersion: 1.1.0.1
 **********************
-Transcrição iniciada, o arquivo de saída é C:\Users\alex.gomes\Desktop\unifor controle de versão\comandos.txt
+Transcrição iniciada, o arquivo de saída é Comandos.txt
+]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versãoPS C:\Users\alex.gomes\Desktop\unifor controle de versão> ]633;B
+PS>git add .
+
+]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versãoPS C:\Users\alex.gomes\Desktop\unifor controle de versão> ]633;B
+PS>git stataus
+
+]633;D;1]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versãoPS C:\Users\alex.gomes\Desktop\unifor controle de versão> ]633;B
+PS>git status
+
+]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versãoPS C:\Users\alex.gomes\Desktop\unifor controle de versão> ]633;B
+PS>git commit -m "add README"
+
+]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versãoPS C:\Users\alex.gomes\Desktop\unifor controle de versão> ]633;B
+PS>git branch
+
+]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versãoPS C:\Users\alex.gomes\Desktop\unifor controle de versão> ]633;B
+PS>git branch -M main
+
+]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versãoPS C:\Users\alex.gomes\Desktop\unifor controle de versão> ]633;B
+PS>git branch
+
+]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versãoPS C:\Users\alex.gomes\Desktop\unifor controle de versão> ]633;B
+PS>git remote add oringin https://github.com/AlexcrGomes/Unifor_Pos_Controle_Versao.git
+
+]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versãoPS C:\Users\alex.gomes\Desktop\unifor controle de versão> ]633;B
+PS>git push -u oringin main
+
+]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versãoPS C:\Users\alex.gomes\Desktop\unifor controle de versão> ]633;B
+PS>git branch teste
+
+]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versãoPS C:\Users\alex.gomes\Desktop\unifor controle de versão> ]633;B
+PS>git branch prod
+
+]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versãoPS C:\Users\alex.gomes\Desktop\unifor controle de versão> ]633;B
+PS>git branch
+
+]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versãoPS C:\Users\alex.gomes\Desktop\unifor controle de versão> ]633;B
+PS>git checkout teste
+
+]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versãoPS C:\Users\alex.gomes\Desktop\unifor controle de versão> ]633;B
+PS>git branch
+
+]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versãoPS C:\Users\alex.gomes\Desktop\unifor controle de versão> ]633;B
+PS>mkdir Git-workshop
+
+
+    Diretório: C:\Users\alex.gomes\Desktop\unifor controle de versão
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        08/11/2025     09:24                Git-workshop
+
+
+]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versãoPS C:\Users\alex.gomes\Desktop\unifor controle de versão> ]633;B
+PS>cd Git-workshop
+]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versão\x5cGit-workshopPS C:\Users\alex.gomes\Desktop\unifor controle de versão\Git-workshop> ]633;B
+PS>echo "v1" > notas.txt
+>> ParameterBinding(Out-File): nome="InputObject"; valor="v1"
+]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versão\x5cGit-workshopPS C:\Users\alex.gomes\Desktop\unifor controle de versão\Git-workshop> ]633;B
+PS>echo "v2" > notas
+>> ParameterBinding(Out-File): nome="InputObject"; valor="v2"
+]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versão\x5cGit-workshopPS C:\Users\alex.gomes\Desktop\unifor controle de versão\Git-workshop> ]633;B
+PS>commit -am "v2"
+commit : O termo 'commit' não é reconhecido como nome de cmdlet, função, arquivo de script ou programa operável. 
+Verifique a grafia do nome ou, se um caminho tiver sido incluído, veja se o caminho está correto e tente novamente.
+No linha:1 caractere:1
++ commit -am "v2"
++ ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (commit:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+commit : O termo 'commit' não é reconhecido como nome de cmdlet, função, arquivo de script ou programa operável. Verifique a grafia do nome ou, se um caminho
+tiver sido incluído, veja se o caminho está correto e tente novamente.
+No linha:1 caractere:1
++ commit -am "v2"
++ ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (commit:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+]633;D;1]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versão\x5cGit-workshopPS C:\Users\alex.gomes\Desktop\unifor controle de versão\Git-workshop> ]633;B
+PS>git commit -am "v2"
+
+]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versão\x5cGit-workshopPS C:\Users\alex.gomes\Desktop\unifor controle de versão\Git-workshop> ]633;B
+PS>git status
+
+]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versão\x5cGit-workshopPS C:\Users\alex.gomes\Desktop\unifor controle de versão\Git-workshop> ]633;B
+PS>git add .
+
+]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versão\x5cGit-workshopPS C:\Users\alex.gomes\Desktop\unifor controle de versão\Git-workshop> ]633;B
+PS>git status
+
+]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versão\x5cGit-workshopPS C:\Users\alex.gomes\Desktop\unifor controle de versão\Git-workshop> ]633;B
+PS>git brach prod
+
+]633;D;1]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versão\x5cGit-workshopPS C:\Users\alex.gomes\Desktop\unifor controle de versão\Git-workshop> ]633;B
+PS>git branch
+
+]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versão\x5cGit-workshopPS C:\Users\alex.gomes\Desktop\unifor controle de versão\Git-workshop> ]633;B
+PS>git checkout prod
+
+]633;D;1]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versão\x5cGit-workshopPS C:\Users\alex.gomes\Desktop\unifor controle de versão\Git-workshop> ]633;B
+PS>git branch
+
+]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versão\x5cGit-workshopPS C:\Users\alex.gomes\Desktop\unifor controle de versão\Git-workshop> ]633;B
+PS>checkout prod
+checkout : O termo 'checkout' não é reconhecido como nome de cmdlet, função, arquivo de script ou programa operável. 
+Verifique a grafia do nome ou, se um caminho tiver sido incluído, veja se o caminho está correto e tente novamente.
+No linha:1 caractere:1
++ checkout prod
++ ~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (checkout:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+checkout : O termo 'checkout' não é reconhecido como nome de cmdlet, função, arquivo de script ou programa operável. Verifique a grafia do nome ou, se um
+caminho tiver sido incluído, veja se o caminho está correto e tente novamente.
+No linha:1 caractere:1
++ checkout prod
++ ~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (checkout:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+]633;D;1]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versão\x5cGit-workshopPS C:\Users\alex.gomes\Desktop\unifor controle de versão\Git-workshop> ]633;B
+PS>git checkout prod
+
+]633;D;1]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versão\x5cGit-workshopPS C:\Users\alex.gomes\Desktop\unifor controle de versão\Git-workshop> ]633;B
+PS>git status
+
+]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versão\x5cGit-workshopPS C:\Users\alex.gomes\Desktop\unifor controle de versão\Git-workshop> ]633;B
+PS>git log
+
+]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versão\x5cGit-workshopPS C:\Users\alex.gomes\Desktop\unifor controle de versão\Git-workshop> ]633;B
+PS>git commit -m "add files"
+
+]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versão\x5cGit-workshopPS C:\Users\alex.gomes\Desktop\unifor controle de versão\Git-workshop> ]633;B
+PS>git status
+
+]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versão\x5cGit-workshopPS C:\Users\alex.gomes\Desktop\unifor controle de versão\Git-workshop> ]633;B
+PS>git log
+
+]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versão\x5cGit-workshopPS C:\Users\alex.gomes\Desktop\unifor controle de versão\Git-workshop> ]633;B
+PS>git checkout prod
+
+]633;D;1]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versão\x5cGit-workshopPS C:\Users\alex.gomes\Desktop\unifor controle de versão\Git-workshop> ]633;B
+PS>git push -u oringin main
+
+]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versão\x5cGit-workshopPS C:\Users\alex.gomes\Desktop\unifor controle de versão\Git-workshop> ]633;B
+PS>git branch
+
+]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versão\x5cGit-workshopPS C:\Users\alex.gomes\Desktop\unifor controle de versão\Git-workshop> ]633;B
+PS>git status
+
+]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versão\x5cGit-workshopPS C:\Users\alex.gomes\Desktop\unifor controle de versão\Git-workshop> ]633;B
+PS>git checkout prod
+
+]633;D;1]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versão\x5cGit-workshopPS C:\Users\alex.gomes\Desktop\unifor controle de versão\Git-workshop> ]633;B
+PS>cd..
 ]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versãoPS C:\Users\alex.gomes\Desktop\unifor controle de versão> ]633;B
 PS>git status
-        modified:   Comandos.txt
 
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-        comandos/
-
-no changes added to commit (use "git add" and/or "git commit -a")
 ]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versãoPS C:\Users\alex.gomes\Desktop\unifor controle de versão> ]633;B
+PS>git add .
+
+]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versãoPS C:\Users\alex.gomes\Desktop\unifor controle de versão> ]633;B
+PS>git commit -m "v2 teste"
+
+]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versãoPS C:\Users\alex.gomes\Desktop\unifor controle de versão> ]633;B
+PS>git push
+
+]633;D;1]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versãoPS C:\Users\alex.gomes\Desktop\unifor controle de versão> ]633;B
+PS>git push -u oringin teste
+
+]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versãoPS C:\Users\alex.gomes\Desktop\unifor controle de versão> ]633;B
+PS>git remote -v
+
+]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versãoPS C:\Users\alex.gomes\Desktop\unifor controle de versão> ]633;B
+PS>git checkout prod
+
+]633;D;1]633;A]633;P;Cwd=C:\x5cUsers\x5calex.gomes\x5cDesktop\x5cunifor controle de versãoPS C:\Users\alex.gomes\Desktop\unifor controle de versão> ]633;B
